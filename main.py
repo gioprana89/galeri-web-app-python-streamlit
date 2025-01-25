@@ -59,7 +59,7 @@ with col2:
     st.image("tabel2.png")
 
 with col3:
-    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://galeri-python-app-tabel-3.streamlit.app/' target = '_blank'>Aplikasi Data Tabel-3</a></h3>", unsafe_allow_html=True)
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://galeri-python-app-tabel-3.streamlit.app/' target = '_blank'>Aplikasi Data Tabel-3 (Multiselect Widget)</a></h3>", unsafe_allow_html=True)
     st.image("tabel3.png")
 
 
