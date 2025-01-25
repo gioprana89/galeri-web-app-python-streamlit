@@ -66,6 +66,44 @@ with col3:
 
 
 
+col11, col21, col31 = st.columns(3)
+
+with col11:
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://galeri-python-app-tabel-4.streamlit.app/' target = '_blank'>Aplikasi Data Tabel-4 (Radio Button Widget)</a></h3>", unsafe_allow_html=True)
+    st.image("tabel4.png")
+
+with col21:
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = '' target = '_blank'>Aplikasi Data Tabel-5</a></h3>", unsafe_allow_html=True)
+
+
+with col31:
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = '' target = '_blank'>Aplikasi Data Tabel-6</a></h3>", unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 st.write('''<br><br><br><center><font color = "#ff0090" size = 8>APLIKASI DATA LITERATUR</font></center>
 
