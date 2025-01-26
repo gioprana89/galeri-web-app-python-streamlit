@@ -151,7 +151,8 @@ with col22:
 
 
 with col23:
-    st.write("")
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://map-plssem-financial.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal/Prosiding) tentang Aplikasi Partial Least Squares Structural Equation Modeling (PLS-SEM) untuk Kinerja Keuangan atau Kinerja Perusahaan berdasarkan Negara yang Diteliti</a><br><font color = 'red'>12 Artikel Jurnal</font></h5>", unsafe_allow_html=True)
+    st.image("dataliteratur3.png")
 
 
 
