@@ -128,10 +128,6 @@ with col31:
 
 
 
-
-
-
-
 st.write('''<br><br><br><center><font color = "#ff0090" size = 8>APLIKASI DATA LITERATUR</font></center>
 
 
@@ -145,15 +141,15 @@ st.write('''<br><br><br><center><font color = "#ff0090" size = 8>APLIKASI DATA L
 
 col21, col22, col23 = st.columns(3)
 
-with col11:
+with col21:
     st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://aplikasi-plssem-datakeuangan-hargasaham-endogen.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Aplikasi Partial Least Squares Structural Equation Modeling (PLS-SEM) dengan Variabel Harga Saham sebagai Variabel Endogen</a></h3>", unsafe_allow_html=True)
     st.image("dataliteratur1.png")
 
-with col21:
+with col22:
     st.write("")
 
 
-with col31:
+with col23:
     st.write("")
 
 
