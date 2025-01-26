@@ -146,7 +146,8 @@ with col21:
     st.image("dataliteratur1.png")
 
 with col22:
-    st.write("")
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://aplikasi-plssem-datakeuangan-hargasaham-endogen.streamlit.app/' target = '_blank'>Daftar Jurnal Scopus (Gratis & Berbayar) pada Berbagai Bidang Disiplin Ilmu</a><br><font color = 'red'>6 Jurnal</font></h5>", unsafe_allow_html=True)
+    st.image("dataliteratur2.png")
 
 
 with col23:
