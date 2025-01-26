@@ -73,7 +73,8 @@ with col11:
     st.image("tabel4.png")
 
 with col21:
-    st.write("<h5 style='text-align: justify; color: blue;'><a href = '' target = '_blank'>Aplikasi Data Tabel-5</a></h3>", unsafe_allow_html=True)
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://galeri-python-app-tabel-5.streamlit.app/' target = '_blank'>Aplikasi Data Tabel-4 (Radio Button Widget)</a></h3>", unsafe_allow_html=True)
+    st.image("tabel5.png")
 
 
 with col31:
