@@ -128,6 +128,10 @@ with col31:
 
 
 
+
+
+
+
 st.write('''<br><br><br><center><font color = "#ff0090" size = 8>APLIKASI DATA LITERATUR</font></center>
 
 
