@@ -77,6 +77,7 @@ with col21:
     st.image("tabel5.png")
 
 
+
 with col31:
     st.write("<h5 style='text-align: justify; color: blue;'><a href = '' target = '_blank'>Aplikasi Data Tabel-6</a></h3>", unsafe_allow_html=True)
 
