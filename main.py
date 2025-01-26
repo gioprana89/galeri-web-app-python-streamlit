@@ -16,8 +16,6 @@ import plotly.express as px
 
 
 
-
-
 st.write('''<br><br><br><center><font color = "#0000ff" size = 7>GALERI APLIKASI PYTHON-STREAMLIT</font></center>
 
 
@@ -156,5 +154,32 @@ with col23:
     st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://map-plssem-financial.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal/Prosiding) tentang Aplikasi Partial Least Squares Structural Equation Modeling (PLS-SEM) untuk Kinerja Keuangan atau Kinerja Perusahaan berdasarkan Negara yang Diteliti</a><br><font color = 'red'>12 Artikel Jurnal</font></h5>", unsafe_allow_html=True)
     st.image("dataliteratur3.png")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+col31, col32, col33 = st.columns(3)
+
+with col31:
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://cfa-aplikasi.streamlit.app/' target = '_blank'>Daftar Artikel (Jurnal/Prosiding) Mengenai Confirmatory Factor Analysis (CFA) dengan Software LISREL, AMOS, JASP, JAMOVI, SMARTPLS & SPSS</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 5 Artikel</font></h5>", unsafe_allow_html=True)
+    st.image("dataliteratur4.png")
+
+with col32:
+    st.write("")
+
+
+with col33:
+    st.write("")
 
 
