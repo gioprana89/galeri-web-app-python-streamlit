@@ -25,7 +25,29 @@ st.write('''<br><br><br><center><font color = "#0000ff" size = 7>GALERI APLIKASI
 
 
 
-st.image("ugi300.png")
+col1, col2, col3, col4, col5 = st.columns([3,3,3,3,3])
+
+with col1:
+    st.write("") 
+
+with col2:
+    st.write("") 
+
+with col3:
+    st.image("ugi3.jpg", width = 300)
+
+with col4:
+    st.write("")
+
+with col5:
+    st.write("")
+
+
+
+
+st.markdown(
+    """<center><a href="https://galeri-web-app-python-2025.streamlit.app/" target = "_blank">Galeri Aplikasi Python-Streamlit</a> | <a href="https://statkomat.com/download_tulisan.php" target = "_blank">STATKOMAT</a> | <a href="https://www.youtube.com/@STATKOMAT" target = "_blank">Youtube</a> | <a href="https://share-your-shiny-app.id/" target = "_blank">Shiny</a></center>""",
+    unsafe_allow_html=True)
 
 
 
@@ -73,9 +95,8 @@ with col11:
     st.image("tabel4.png")
 
 with col21:
-    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://galeri-python-app-tabel-5.streamlit.app/' target = '_blank'>Aplikasi Data Tabel-5 (Multiselect Widget)</a></h3>", unsafe_allow_html=True)
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://galeri-python-app-tabel-5.streamlit.app/' target = '_blank'>Aplikasi Data Tabel-4 (Radio Button Widget)</a></h3>", unsafe_allow_html=True)
     st.image("tabel5.png")
-
 
 
 with col31:
