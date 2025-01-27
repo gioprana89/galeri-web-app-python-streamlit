@@ -16,9 +16,6 @@ import plotly.express as px
 
 
 
-
-
-
 st.write('''<br><br><br><center><font color = "#0000ff" size = 7>GALERI APLIKASI PYTHON-STREAMLIT</font></center>
 
 
@@ -145,7 +142,7 @@ st.write('''<br><br><br><center><font color = "#ff0090" size = 8>APLIKASI DATA L
 col21, col22, col23 = st.columns(3)
 
 with col21:
-    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://aplikasi-plssem-datakeuangan-hargasaham-endogen.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Aplikasi Partial Least Squares Structural Equation Modeling (PLS-SEM) dengan Variabel Harga Saham sebagai Variabel Endogen</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 3 Artikel</font></h5>", unsafe_allow_html=True)
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://aplikasi-plssem-datakeuangan-hargasaham-endogen.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Aplikasi Partial Least Squares Structural Equation Modeling (PLS-SEM) dengan Variabel Harga Saham sebagai Variabel Endogen</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 6 Artikel</font></h5>", unsafe_allow_html=True)
     st.image("dataliteratur1.png")
 
 with col22:
