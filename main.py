@@ -16,9 +16,6 @@ import plotly.express as px
 
 
 
-
-
-
 st.write('''<br><br><br><center><font color = "#0000ff" size = 7>GALERI APLIKASI PYTHON-STREAMLIT</font></center>
 
 
@@ -184,5 +181,104 @@ with col32:
 
 with col33:
     st.write("")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st.write('''<br><br><br><center><font color = "#ff0090" size = 8>KUMPULAN ARTIKEL (JURNAL/PROSIDING): HARGA SAHAM SEBAGAI VARIABEL DEPENDEN</font></center>
+
+
+
+             ''', unsafe_allow_html = True)
+
+
+
+
+
+
+col_hs11, col_hs12, col_hs13 = st.columns(3)
+
+with col_hs11:
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://hargasaham-pbv.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Pengaruh Price Book Value (PBV) terhadap Harga Saham</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 1 Artikel</font></h5>", unsafe_allow_html=True)
+    st.image("hargasaham-pbv.png")
+
+with col_hs12:
+    st.write("")
+
+
+with col_hs13:
+    st.write("")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
