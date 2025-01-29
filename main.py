@@ -16,6 +16,9 @@ import plotly.express as px
 
 
 
+
+
+
 st.write('''<br><br><br><center><font color = "#0000ff" size = 7>GALERI APLIKASI PYTHON-STREAMLIT</font></center>
 
 
