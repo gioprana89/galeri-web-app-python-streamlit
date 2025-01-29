@@ -142,7 +142,7 @@ st.write('''<br><br><br><center><font color = "#ff0090" size = 8>APLIKASI DATA L
 col21, col22, col23 = st.columns(3)
 
 with col21:
-    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://aplikasi-plssem-datakeuangan-hargasaham-endogen.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Aplikasi Partial Least Squares Structural Equation Modeling (PLS-SEM) dengan Variabel Harga Saham sebagai Variabel Endogen</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 10 Artikel</font></h5>", unsafe_allow_html=True)
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://aplikasi-plssem-datakeuangan-hargasaham-endogen.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Aplikasi Partial Least Squares Structural Equation Modeling (PLS-SEM) dengan Variabel Harga Saham sebagai Variabel Endogen</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 16 Artikel</font></h5>", unsafe_allow_html=True)
     st.image("dataliteratur1.png")
 
 with col22:
@@ -153,9 +153,6 @@ with col22:
 with col23:
     st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://map-plssem-financial.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal/Prosiding) tentang Aplikasi Partial Least Squares Structural Equation Modeling (PLS-SEM) untuk Kinerja Keuangan atau Kinerja Perusahaan berdasarkan Negara yang Diteliti</a><br><font color = 'red'>12 Artikel Jurnal</font></h5>", unsafe_allow_html=True)
     st.image("dataliteratur3.png")
-
-
-
 
 
 
