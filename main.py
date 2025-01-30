@@ -258,7 +258,8 @@ with col_hs11:
     st.image("hargasaham-pbv.png")
 
 with col_hs12:
-    st.write("")
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://hargasaham-pbv.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Pengaruh Earning per Share (EPS) terhadap Harga Saham</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 1 Artikel</font></h5>", unsafe_allow_html=True)
+    st.image("hargasaham-eps.png")
 
 
 with col_hs13:
