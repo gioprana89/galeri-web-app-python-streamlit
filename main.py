@@ -263,8 +263,8 @@ with col_hs12:
 
 
 with col_hs13:
-    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://hargasaham-roa.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Pengaruh Return on Asset (ROA) terhadap Harga Saham</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 4 Artikel</font></h5>", unsafe_allow_html=True)
-    st.image("hargasaham-roa.png")
+    st.write("<h5 style='text-align: justify; color: blue;'><a href = 'https://hargasaham-roa.streamlit.app/' target = '_blank'>Kumpulan Artikel (Jurnal & Prosiding): Pengaruh Return on Asset (ROA) terhadap Harga Saham</a><br><font color = 'red'>Artikel Terkumpul Sebanyak 10 Artikel</font></h5>", unsafe_allow_html=True)
+    st.image("hargasaham-roa z.png")
 
 
 
